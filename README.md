@@ -11,11 +11,13 @@
 - Be lazy for 10 years and collect rent
 - Check back to see value increase 4x times after 10 years
 - Factors considered for property investment:
- >> * Cost of single family house
- >> * School ratings
- >> * Job growth
- >> * Crime rate
- >> * Cost-to-Rent ratio
+ ```
+     * Cost of single family house
+     * School ratings
+     * Job growth
+     * Crime rate
+     * Cost-to-Rent ratio
+  ```
 
 ### Data Sources.
 There are a number of different data sources that were utilized.
@@ -42,4 +44,13 @@ Once the data sources were identified, the data gathered and munged.
 - Normalization of 'Rent', 'School Ratings', 'Job Growth' & 'Crime Rate' to a factor of '1'.
 - Summary metric derived by adding the normalized values.
 
+<br />
 
+### Output.
+The data were graphed via Leaflet as a heatmap.  To add more information, tooltips were added to the visualization.
+
+#### *Example 1*
+![Summary](https://github.com/knishina/clean_real_estate/blob/master/Images/Screen%20Shot%202019-04-24%20at%204.49.54%20PM.png)
+
+#### *Example 2*
+![Tooltipd](https://github.com/knishina/clean_real_estate/blob/master/Images/Screen%20Shot%202019-04-24%20at%204.50.43%20PM.png)
