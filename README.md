@@ -1,6 +1,6 @@
 # Real Estate
 ## Link for the project: https://knishina.github.io/clean_real_estate/
-## Work for the project: https://github.com/knishina/Real_Estate
+## Work for the project: https://github.com/knishina/clean_real_estate/
 
 ### Purpose.
 - Because Tech is exciting, but unpredictable.
