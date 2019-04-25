@@ -50,7 +50,7 @@ Once the data sources were identified, the data gathered and munged.
 The data were graphed via Leaflet as a heatmap.  To add more information, tooltips were added to the visualization.
 
 #### *Example 1*
-![Summary](https://github.com/knishina/clean_real_estate/blob/master/Images/Screen%20Shot%202019-04-24%20at%204.49.54%20PM.png)
+![Summary](https://github.com/knishina/clean_real_estate/blob/master/Images/01.png)
 
 #### *Example 2*
-![Tooltipd](https://github.com/knishina/clean_real_estate/blob/master/Images/Screen%20Shot%202019-04-24%20at%204.50.43%20PM.png)
+![Tooltipd](https://github.com/knishina/clean_real_estate/blob/master/Images/02.png)
